@@ -28,6 +28,6 @@ The program for the final_dataset takes about 7 minutes, instead of for the data
 * Results are present in the bin folder for both the dataset I used and the one you provided.
 Also present are the preprocessed datasets of both formats (.csv for visualization and .pkl for execution on code) and again I have kept both the one used for the project and the one you provided.
 * All files used for evaluation are inside the bin folder according to what is specified in the report.
-*Only the input dataset provided by you is available in the /data/Input. The input dataset used in this project hasn't been upload ONLY because of its huge size (500MB). If you need I can provide that to you immediately.
+* Only the input dataset provided by you is available in the /data/Input. The input dataset used in this project hasn't been upload ONLY because of its huge size (500MB). If you need I can provide that to you immediately.
 ## Contributor
 Elia Cunegatti
