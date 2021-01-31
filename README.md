@@ -19,7 +19,7 @@ pip3 install -r requirements.txt
 ```
 ## Execution
 ```bash
-python3 src/project_algorithm.py
+python3 src/project_algorithm.py 
 ```
 ## NOTES!!
 * Since the dataset on which the report is based is large (1.6 million tweets) it is possible to decide whether to run the algorithm with this dataset or with the one you provided.
