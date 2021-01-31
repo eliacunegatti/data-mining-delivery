@@ -28,10 +28,10 @@ def tokenization(text):
 #function to decide which dataset take as input
 rseba = True
 while(rseba):
-    dataset = str(input("Do you want to use the database you provided --> execution time 20s or the one I used for the project --> execution time 450s?\nA - provided by you\nB - project_dataset\n")).lower()
+    dataset = str(input("Do you want to use the database you provided --> execution time 10/20s or the one I used for the project --> execution time 400/450s?\nA - dataset provided by you\nB - project dataset\n")).lower()
     if (dataset == 'a' or dataset =='b'):
         if(dataset == 'b'):
-            df = pd.read_pickle('data/pickle/final_dataset.pkl')
+            df = pd.read_pickle('data/pickle/project_dataset.pkl')
         else:
             df = pd.read_pickle('data/pickle/covid19.pkl')
         rseba=False
