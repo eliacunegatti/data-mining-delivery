@@ -26,7 +26,7 @@ python3 src/project_algorithm.py
 Just select from code-line after launching the program.
 The program for the final_dataset takes about 7 minutes, instead of for the dataset you provided 20 seconds maximum.
 * Results are present in the bin folder for both the dataset I used and the one you provided.
-Also present are the preprocessed datasets of both formats (.csv for visualization and pickle for execution on code) and again I have kept both the one used for the project and the one you provided.
+Also present are the preprocessed datasets of both formats (.csv for visualization and .pkl for execution on code) and again I have kept both the one used for the project and the one you provided.
 * All files used for evaluation are inside the bin folder according to what is specified in the report.
 ## Contributor
 Elia Cunegatti
