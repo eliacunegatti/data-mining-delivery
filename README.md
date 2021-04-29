@@ -2,17 +2,31 @@
 Project of Data Mining course UniTn (Università di Trento) a.y 2020-2021
 
 ## Folders Content
-* doc
-  - report.pdf
-* src
-  - ./Proprocessing
-  - project_algorithm.py
-* data
-  - ./csv
-  - ./pickle
-* bin
-  - ./Evaluation
-  - results.csv
+
+```
+project
+│   README.md
+│       
+└───doc
+│   │   report.pdf
+│   
+└───src
+|   │  project_algorithm.py
+|   │  
+|   └─ Preprocessing
+|
+└───data
+|   | 
+|   └─ csv
+|   | 
+|   └─ pickle
+|
+└───bin
+    |  results.csv
+    |
+    └─ Evaluation 
+```
+
 ## Requirements
 ```bash
 pip3 install -r requirements.txt
